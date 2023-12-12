@@ -22,3 +22,5 @@ Think about and check out higher Archetype feats / feat chains (unrelated to the
 Equipment sum: 6,400 gp (small caveat/spoiler: might not get all of it) - can pick any level of items
 
 Every player gets to pick one unique pool from [[Dead but not Damned/Player Lore pools\|Player Lore pools]]
+
+lil testie
